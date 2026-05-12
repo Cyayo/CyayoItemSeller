@@ -84,9 +84,11 @@ dengan rank atau izin khusus (misal: menu khusus Donatur).
 ```
 
 ### 🚀 Advanced Features
-- ✨ **Real-time Estimation** - Lore tombol jual berubah otomatis saat item dimasukkan.
-- 💎 **MMOItems Support** - Sinkronisasi otomatis dengan Type, ID, dan Quality.
-- 💰 **ExcellentEconomy Integration** - Mendukung berbagai mata uang ExcellentEconomy.
-- 🎵 **Custom Sounds** - Feedback suara saat Open, Sell Success, Fail, dan Error.
-- 🎨 **Quality Strings** - Menampilkan nama kualitas dengan gradient warna di chat.
-- 📝 **Detailed Chat Summary** - Rincian penjualan yang rapi dan mudah dibaca.
+- 📊 **Economy Integration** - Terhubung langsung dengan ExcellentEconomy untuk manajemen saldo yang akurat.
+- 🗂️ **Category Menus** - Mendukung pembagian menu berdasarkan kategori item (Material, Weapon, Armor, dll).
+- 🖱️ **User-Friendly GUI** - Tampilan menu yang bersih dan intuitif untuk memudahkan pemain bertransaksi.
+- ⚡ **Optimized Performance** - Proses transaksi yang cepat tanpa menyebabkan beban berlebih pada server.
+
+---
+
+Made with ❤️ by **Cyayo Cressiel**

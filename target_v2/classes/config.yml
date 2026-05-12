@@ -1,0 +1,41 @@
+prefix: "&7[&6ItemSeller&7]"
+currency-id: "gins"
+currency-name: "Gins"
+quality-strings:
+  perfect: "<gradient:#EFEAA5:#D4950A>Mahakarya ☀</gradient>"
+  exquisite: "<gradient:#87CEEB:#1E90FF>Istimewa</gradient>"
+  good: "<gradient:#90EE90:#32CD32>Bagus</gradient>"
+  flawed: "<gradient:#FFA500:#FF8C00>Biasa</gradient>"
+  broken: "<gradient:#FF6347:#DC143C>Rapuh ☠</gradient>"
+
+sell-message-order:
+  - header
+  - item-lines
+  - footer
+  - total
+
+estimate-lore:
+  enabled: true
+  lore-line: "&7Estimasi: &6{estimated} {currency}"
+  lore-no-item: "&7Belum ada item untuk dijual"
+
+sounds:
+  open:         "minecraft:block.note_block.chime"
+  sell-success: "minecraft:entity.experience_orb.pickup"
+  sell-fail:    "minecraft:entity.villager.no"
+  error:        "minecraft:entity.villager.no"
+
+messages:
+  no-permission:     "&cKamu tidak memiliki izin!"
+  player-not-found:  "&cPlayer tidak ditemukan!"
+  menu-not-found:    "&cMenu '{menu}' tidak ditemukan!"
+  usage:             "&cUsage: /itemsell <menu> <player>"
+  no-item:           "&cTidak ada item yang bisa dijual!"
+  cannot-sell:       "&cItem ini tidak bisa dijual di menu ini!"
+  header:            "&8&m--------------------"
+  item-line:         "  &8▸ &e{amount}x &r{name} &8= &6{price} {currency}"
+  footer:            "&8&m--------------------"
+  total:             "&aTotal: &6{total} {currency} &adari &e{amount} item"
+  reload-done:       "&aConfig berhasil direload!"
+  no-use-permission: "&cKamu tidak memiliki izin untuk menjual item!"
+  menu-open-notify:  "&aMenu jual &e{menu} &adibuka untuk &e{player}&a!"

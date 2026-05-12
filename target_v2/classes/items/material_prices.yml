@@ -1,0 +1,178 @@
+items:
+### -------- fishing material
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: BONEFISH
+    price: 3
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: DIRTFISH
+    price: 3
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: SLIMEFISH
+    price: 5
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: PIXIEFISH
+    price: 7
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: CURSEDFISH
+    price: 10
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: EYEFISH
+    price: 13
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: FISHING_MATERIAL
+    mmo-id: STRANGEFISH
+    price: 18
+    allowed-menus:
+      - material
+
+### -------- mining material
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: FRAGMENT_AGATE
+    price: 1
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: ROUGH_AGATE
+    price: 1
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: ORDINARY_AGATE
+    price: 3
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: POLISHED_AGATE
+    price: 3
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: FLAWLESS_AGATE
+    price: 5
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: PREMIUM_AGATE
+    price: 5
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: SUPERRIOR_AGATE
+    price: 8
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: IMPERIAL_AGATE
+    price: 10
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MINING_MATERIAL
+    mmo-id: CELESTIAL_AGATE
+    price: 15
+    allowed-menus:
+      - material
+
+### -------- mob material
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_ARMORS
+    price: 1
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_EYES
+    price: 1
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_SPEAR
+    price: 2
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_DAGGER
+    price: 2
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_HAIR_ORNAMENT
+    price: 3
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_SOUL
+    price: 3
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_BLACK_FRISBEE
+    price: 5
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_TOTEM_HARP
+    price: 7
+    allowed-menus:
+      - material
+
+  - type: mmoitems
+    mmo-type: MOB_MATERIAL
+    mmo-id: AT_TOTEM_CORE
+    price: 10
+    allowed-menus:
+      - material

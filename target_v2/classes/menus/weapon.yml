@@ -1,0 +1,30 @@
+title: "   &8[ &cJual Senjata &8]"
+rows: 4
+open-permission: "itemsell.open.weapon"
+prefix: "<b><gradient:#FF4B2B:#FF416C>Blacksmith</gradient></b> &7🠚"
+filler:
+  material: RED_STAINED_GLASS_PANE
+  name: " "
+  custom-model-data: 0
+sell-button:
+  slot: 31
+  material: DIAMOND
+  name: "&c&lJUAL SEMUA"
+  lore:
+    - "&7Klik untuk menjual semua item"
+  custom-model-data: 0
+item-slots:
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
