@@ -9,7 +9,7 @@
 ```
 
 ### 1. Cara Setting Harga Item
-Buka folder `items/` dan edit file `.yml` yang ada. Kamu bisa menambahkan item dengan format berikut:
+Buka folder `items/` dan edit file `.yml`. Tambahkan item dengan format berikut:
 
 **Format Vanilla:**
 ```yaml
@@ -25,24 +25,21 @@ Buka folder `items/` dan edit file `.yml` yang ada. Kamu bisa menambahkan item d
   mmo-type: SWORD
   mmo-id: STAR_SLAYER
   price: 500
-  quality-prices:
+  quality-prices: # Opsional (Khusus CyayoForge)
     perfect: 1000
     broken: 100
   allowed-menus: ["weapon"]
 ```
 
-> [!IMPORTANT]
-> Fitur `quality-prices` bersifat **OPSIONAL** dan khusus untuk item yang memiliki sistem Quality dari plugin **CyayoForge**. Jika item tidak memiliki quality, cukup gunakan `price` saja.
-
 ### 2. Cara Membuat Menu Baru
-- Buat file `.yml` baru di folder `menus/` (contoh: `fish.yml`).
-- Atur `title`, `rows`, dan `open-permission`.
-- Pastikan `item-slots` sudah diatur sebagai tempat player menaruh item.
+- Buat file `.yml` baru di folder `menus/`.
+- Atur `open-permission` sesuai keinginanmu.
+- Gunakan `item-slots` untuk menentukan area input player.
 
 ### 3. Cara Penggunaan
-- Gunakan command `/itemsell <menu> <player>` (bisa dipasang di NPC atau CommandSign).
-- Player menaruh item ke slot kosong -> Klik tombol **JUAL**.
-- Uang otomatis masuk ke ExcellentEconomy.
+- Jalankan `/itemsell <menu> <player>` via NPC/Console/Command.
+- Player menaruh item -> Klik tombol **JUAL**.
+- Notifikasi rincian harga akan muncul di chat & uang masuk otomatis.
 
 ```text
 =========================================
@@ -56,10 +53,21 @@ ADMIN COMMAND:
 /itemsell reload             : Reload config, menu, & harga.
 
 PERMISSIONS:
-itemsell.use                 > Izin menggunakan tombol jual.
-itemsell.open.material       > Izin akses menu Material.
-itemsell.open.weapon         > Izin akses menu Weapon.
-itemsell.admin               > Akses penuh (Reload & Semua Menu).
+itemsell.use                 > Izin dasar menekan tombol jual.
+itemsell.admin               > Akses master (Semua Menu & Reload).
+itemsell.open.material       > Izin akses menu Material (Bawaan).
+itemsell.open.weapon         > Izin akses menu Weapon (Bawaan).
+
+[!] CUSTOM MENU PERMISSION:
+Kamu bisa menentukan sendiri nama permission untuk setiap menu baru.
+
+CARA MENGATUR:
+Edit file menu di folder 'menus/*.yml', lalu ubah bagian 
+'open-permission' sesuai keinginan (Contoh: 'itemsell.open.vip').
+
+FUNGSINYA:
+Membatasi akses menu tertentu agar hanya bisa dibuka oleh player
+dengan rank atau izin khusus (misal: menu khusus Donatur).
 ```
 
 ```text
@@ -69,15 +77,16 @@ itemsell.admin               > Akses penuh (Reload & Semua Menu).
 
 {menu}      > Nama menu aktif.
 {player}    > Nama player.
-{estimated} > Estimasi harga di lore.
+{estimated} > Estimasi harga (tampil di lore).
 {total}     > Total uang yang didapat.
 {amount}    > Jumlah item terjual.
 {currency}  > Nama mata uang (Gins).
 ```
 
-### 🚀 Plugin Features
-- ✨ **GUI Modern** - Tampilan bersih & real-time estimation.
-- 💎 **MMOItems Support** - Integrasi otomatis Type & ID.
-- 💰 **Quality Pricing** - Dukungan opsional untuk CyayoForge.
-- 🎵 **Immersive Sounds** - Feedback suara di setiap aksi.
-- ⚡ **High Performance** - Ringan dan optimal.
+### 🚀 Advanced Features
+- ✨ **Real-time Estimation** - Lore tombol jual berubah otomatis saat item dimasukkan.
+- 💎 **MMOItems Support** - Sinkronisasi otomatis dengan Type, ID, dan Quality.
+- 💰 **ExcellentEconomy Integration** - Mendukung berbagai mata uang ExcellentEconomy.
+- 🎵 **Custom Sounds** - Feedback suara saat Open, Sell Success, Fail, dan Error.
+- 🎨 **Quality Strings** - Menampilkan nama kualitas dengan gradient warna di chat.
+- 📝 **Detailed Chat Summary** - Rincian penjualan yang rapi dan mudah dibaca.
