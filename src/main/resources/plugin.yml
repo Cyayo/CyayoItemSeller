@@ -1,0 +1,33 @@
+name: CyayoSell
+version: 1.2.0
+main: id.seria.itemseller.CyayoSell
+api-version: 1.13
+authors:
+  - Cyayo
+description: GUI-based item selling with ExcellentEconomy integration
+depend:
+  - MMOItems
+  - MythicLib
+  - ExcellentEconomy
+
+commands:
+  itemsell:
+    description: Buka menu jual item
+    usage: /itemsell <menu> <player>
+
+permissions:
+  itemsell.admin:
+    description: Semua akses admin ItemSeller
+    default: op
+    children:
+      itemsell.open.material: true
+      itemsell.open.weapon: true
+  itemsell.open.material:
+    description: Buka menu material untuk player
+    default: false
+  itemsell.open.weapon:
+    description: Buka menu weapon untuk player
+    default: false
+  itemsell.use:
+    description: Bisa menjual item di dalam GUI
+    default: true

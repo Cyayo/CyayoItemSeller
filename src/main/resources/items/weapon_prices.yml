@@ -1,0 +1,1411 @@
+items:
+### -------- DAGGER
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: GROVE_SHANKER_POOR
+    price: 25
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: VINEPIERCER_POOR
+    price: 25
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: GROVE_SHANKER_GOOD
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: VINEPIERCER_GOOD
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: GROVE_SHANKER_GREAT
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: VINEPIERCER_GREAT
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: GROVE_SHANKER_ANCIENT
+    price: 75
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: VINEPIERCER_ANCIENT
+    price: 75
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: GROVE_SHANKER_RELIC
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: VINEPIERCER_RELIC
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: GROVE_SHANKER_SECRET
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: DAGGER
+    mmo-id: VINEPIERCER_SECRET
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+### -------- KATANA
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: MOSSEDGE_POOR
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: LEAFCUTTER_POOR
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: ELDERBLOOM_POOR
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: MOSSEDGE_GOOD
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: LEAFCUTTER_GOOD
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: ELDERBLOOM_GOOD
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: MOSSEDGE_GREAT
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: LEAFCUTTER_GREAT
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: ELDERBLOOM_GREAT
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: MOSSEDGE_ANCIENT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: LEAFCUTTER_ANCIENT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: ELDERBLOOM_ANCIENT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: MOSSEDGE_RELIC
+    price: 110
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: LEAFCUTTER_RELIC
+    price: 110
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: ELDERBLOOM_RELIC
+    price: 110
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: MOSSEDGE_SECRET
+    price: 160
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: LEAFCUTTER_SECRET
+    price: 160
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: KATANA
+    mmo-id: ELDERBLOOM_SECRET
+    price: 160
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+### -------- SHORT SWORD (ssword)
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: FORESTBLADE_POOR
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBLADE_POOR
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBREAKER_POOR
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: FORESTBLADE_GOOD
+    price: 60
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBLADE_GOOD
+    price: 60
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBREAKER_GOOD
+    price: 60
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: FORESTBLADE_GREAT
+    price: 75
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBLADE_GREAT
+    price: 75
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBREAKER_GREAT
+    price: 75
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: FORESTBLADE_ANCIENT
+    price: 90
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBLADE_ANCIENT
+    price: 90
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBREAKER_ANCIENT
+    price: 90
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: FORESTBLADE_RELIC
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBLADE_RELIC
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBREAKER_RELIC
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: FORESTBLADE_SECRET
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBLADE_SECRET
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: SWORD
+    mmo-id: RUINBREAKER_SECRET
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+### -------- HELMET
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: SPROUTHOOD_POOR
+    price: 55
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: MOSSHELM_POOR
+    price: 55
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: RUINWOOD_CROWN_POOR
+    price: 55
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: SPROUTHOOD_GOOD
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: MOSSHELM_GOOD
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: RUINWOOD_CROWN_GOOD
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: SPROUTHOOD_GREAT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: MOSSHELM_GREAT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: RUINWOOD_CROWN_GREAT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: SPROUTHOOD_ANCIENT
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: MOSSHELM_ANCIENT
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: RUINWOOD_CROWN_ANCIENT
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: SPROUTHOOD_RELIC
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: MOSSHELM_RELIC
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: RUINWOOD_CROWN_RELIC
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: SPROUTHOOD_SECRET
+    price: 170
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: MOSSHELM_SECRET
+    price: 170
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: HELMET
+    mmo-id: RUINWOOD_CROWN_SECRET
+    price: 170
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+### -------- CHESTPLATE
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: SPROUTGUARD_POOR
+    price: 110
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: MOSSLAYER_POOR
+    price: 110
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: RUINWOOD_PLATE_POOR
+    price: 110
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: SPROUTGUARD_GOOD
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: MOSSLAYER_GOOD
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: RUINWOOD_PLATE_GOOD
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: SPROUTGUARD_GREAT
+    price: 135
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: MOSSLAYER_GREAT
+    price: 135
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: RUINWOOD_PLATE_GREAT
+    price: 135
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: SPROUTGUARD_ANCIENT
+    price: 160
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: MOSSLAYER_ANCIENT
+    price: 160
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: RUINWOOD_PLATE_ANCIENT
+    price: 160
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: SPROUTGUARD_RELIC
+    price: 180
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: MOSSLAYER_RELIC
+    price: 180
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: RUINWOOD_PLATE_RELIC
+    price: 180
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: SPROUTGUARD_SECRET
+    price: 210
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: MOSSLAYER_SECRET
+    price: 210
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: CHESTPLATE
+    mmo-id: RUINWOOD_PLATE_SECRET
+    price: 210
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+### -------- LEGGINGS
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: SPROUTWOVEN_POOR
+    price: 90
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: MOSSBOUND_POOR
+    price: 90
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: RUINWOOD_LEGS_POOR
+    price: 90
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: SPROUTWOVEN_GOOD
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: MOSSBOUND_GOOD
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: RUINWOOD_LEGS_GOOD
+    price: 100
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: SPROUTWOVEN_GREAT
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: MOSSBOUND_GREAT
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: RUINWOOD_LEGS_GREAT
+    price: 125
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: SPROUTWOVEN_ANCIENT
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: MOSSBOUND_ANCIENT
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: LEGGINGS
+    mmo-id: RUINWOOD_LEGS_ANCIENT
+    price: 140
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+### -------- BOOTS
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: SPROUTSTEP_POOR
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: MOSSROOT_POOR
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: RUINROOT_WALKERS_POOR
+    price: 35
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: SPROUTSTEP_GOOD
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: MOSSROOT_GOOD
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: RUINROOT_WALKERS_GOOD
+    price: 50
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: SPROUTSTEP_GREAT
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: MOSSROOT_GREAT
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: RUINROOT_WALKERS_GREAT
+    price: 65
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: SPROUTSTEP_ANCIENT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: MOSSROOT_ANCIENT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
+
+  - type: mmoitems
+    mmo-type: BOOTS
+    mmo-id: RUINROOT_WALKERS_ANCIENT
+    price: 80
+    allowed-menus:
+      - weapon
+    quality-prices:
+      perfect: 150
+      exquisite: 80
+      good: 40
+      flawed: 15
+      broken: 5
